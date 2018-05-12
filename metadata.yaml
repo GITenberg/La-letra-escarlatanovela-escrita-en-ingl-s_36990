@@ -1,0 +1,45 @@
+_repo: La-letra-escarlatanovela-escrita-en-ingl-s_36990
+_version: 0.1.0
+alternative_title: The scarlet letter. Spanish
+contributor:
+  translator:
+    agent_name: Francisco, Sellén
+    gutenberg_agent_id: '38577'
+    url: http://www.gutenberg.org/2009/agents/38577
+covers:
+- cover_type: archival
+  image_path: 36990-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2011-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36990'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Puritans -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Women immigrants -- Fiction'
+- !lcsh 'Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Psychological fiction'
+title: 'La letra escarlata
+
+  novela escrita en inglés'
+url: http://www.gutenberg.org/ebooks/36990
